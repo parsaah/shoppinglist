@@ -1,0 +1,9 @@
+id,name,price,category,quantity
+1,apple,2,fruit,50
+2,banana,8,fruit,30
+3,orange,5,fruit,45
+4,grapes,5,fruit,0
+5,kiwi,3,fruit,18
+6,carrot,1,vegetable,100
+7,tomato,2,vegetable,80
+8,onion,3,vegetable,0
